@@ -20,7 +20,7 @@
   --image_height: 140px;
 
   /* You can change the colors of the title and description section by typing the color codes. */
-  --title_color: #fff;
+  --title_color: #e6e8e9;
   --description_color: #474d51;
 
   /* You can change the colors of social media icons by changing the color code. */
@@ -28,22 +28,22 @@
 
   /* You can change the background, text color and active color of the menu by changing the color codes. */
   --menu_background_color: #0e0e0e;
-  --menu_text_color: #fff;
-  --menu_active_text_color: #fff;
+  --menu_text_color: #e6e8e9;
+  --menu_active_text_color: #e6e8e9;
 
   /* You can change the button's background, text color and active color by changing the color codes. */
   --button_background_color: #0e0e0e;
-  --button_text_color: #fff;
-  --button_text_hover_color: #fff;
+  --button_text_color: #e6e8e9;
+  --button_text_hover_color: #e6e8e9;
 
   /* You can change the background, text color and active color of the text field by changing the color codes. */
   --textarea_background_color: #0e0e0e;
-  --textarea_text_color: #fff;
+  --textarea_text_color: #e6e8e9;
   --textarea_link_text_color: #6c757d;
 
   /* You can change the background, text color and active color of the footer area by changing the color codes. */
   --footer_background_color: #0e0e0e;
-  --footer_text_color: #6c757d;
+  --footer_text_color: #e6e8e9;
   --footer_link_text_color: #6c757d;
 }
 
