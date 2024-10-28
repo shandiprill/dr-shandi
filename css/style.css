@@ -108,6 +108,11 @@ body {
   font-size: 1.5em;
 }
 
+.header_text h3 {
+  color: var(--description_color);
+  font-size: 1em;
+}
+
 /* Social Media Icons Codes */
 
 .header_svg_list {
